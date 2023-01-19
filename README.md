@@ -1,9 +1,5 @@
-<!DOCTYPE html>
 
-
-<html> 
-    <header>
-     <title> Point Cloud Processing Engine | Improve Robotic Vision </title>
+    <header> Point Cloud Processing Engine | Improve Robotic Vision 
     </header>
 
   
