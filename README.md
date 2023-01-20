@@ -1,17 +1,9 @@
 <p align="center">
-<<<<<<< HEAD
-  <a href="">
-    <img src="" alt="Logo" width=72 height=72>
-  </a>
-
-  <h3 align="center">Point Cloud Reconstruction | Engine </h3>
-=======
   <a href="logo/logo.png">
     <img src="" alt="Logo" width=72 height=72>
   </a>
 
   <h3 align="center">Point Cloud Reconstruction Engine </h3>
->>>>>>> 4a38203 (adding logo)
 </p>
 
 
@@ -21,30 +13,13 @@
 - [Problem](#problem)
 - [Full Architecture](#full_architecture)
 - [Bugs and feature requests](#bugs-and-feature-requests)
-<<<<<<< HEAD
-- [Contributing](#contributing)
-- [Creators](#creators)
-- [Thanks](#thanks)
-=======
 - [Article](#article)
 - [Creators](#creators)
->>>>>>> 4a38203 (adding logo)
 - [Copyright and license](#copyright-and-license)
 
 
 ## abstract
 
-<<<<<<< HEAD
-Some text
-
-- Instruction 1
-- Instruction 2
-- Instruction 3
-
-## problem
-
-Here goes all the budgets
-=======
 Recovering the 3D structure of a scene from images has long been one of the core interests of computer vision. While a considerable amount of work in this area has been devoted to achieve high quality reconstructions regardless of run time, other work has focused on the aspect of real-time reconstruction and its applications. Especially in the last decade the interest in real-time 3D reconstruction systems has increased considerably due to the many applications, industrial as well as scientific, which are enabled by this technology. This thesis fits into this trend by presenting a real-time 3D reconstruction system making use of novel and efficient reconstruction algorithms. Using this system we showcase several innovative applications, focusing in particular on robotic systems (drons, cars) including multi-camera 3D reconstruction systems.
 
 ## problem
