@@ -43,7 +43,7 @@ source_code_project/
     │____main.py
 
 ```
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/OussamaMegouas/pcp_engine/blob/main/logo/net_architecture.jpg?raw=true)
 
 ## Bugs and feature requests
 
