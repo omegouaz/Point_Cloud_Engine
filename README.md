@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="logo/logo.png">
-    <img src="" alt="Logo" width=72 height=72>
+  <a href="">
+    <img src="logo/logo.png" alt="Logo" width=72 height=72>
   </a>
 
   <h3 align="center">Point Cloud Reconstruction Engine </h3>
@@ -13,7 +13,6 @@
 - [Problem](#problem)
 - [Full Architecture](#full_architecture)
 - [Bugs and feature requests](#bugs-and-feature-requests)
-- [Article](#article)
 - [Creators](#creators)
 - [Copyright and license](#copyright-and-license)
 
@@ -60,29 +59,18 @@ Editor preferences are available in the [editor config](https://reponame/blob/ma
 
 <<<<<<< HEAD
 ## Creators
-=======
-## Article
->>>>>>> 4a38203 (adding logo)
 
-**Creator 1**
-
-- <https://github.com/usernamecreator1>
+- <https://github.com/OussamaMegouas>
 
 <<<<<<< HEAD
-## Thanks
-
-Some Text
-
 ## Copyright and license
 
-Code and documentation copyright 2011-2018 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
+Code and documentation copyright 2022-2023 the authors. Code released under the [MIT License](https://github.com/OussamaMegouas/pcp_engine/blob/main/LICENSE).
 
-Enjoy :metal:
+
 =======
 ## Copyright and license
 
 Open3D: A Modern Library for 3D Data Processing [MIT License](https://github.com/isl-org/Open3D).
+
 Intel® RealSense™ SDK 2.0 is a cross-platform library for Intel® RealSense™ depth cameras (D400 & L500 series and the SR300) This project only uses the python wrapper [Apache License](https://github.com/IntelRealSense/librealsense).
-
-
->>>>>>> 4a38203 (adding logo)
