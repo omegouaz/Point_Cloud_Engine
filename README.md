@@ -43,7 +43,7 @@ source_code_project/
     │____main.py
 
 ```
-
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 ## Bugs and feature requests
 
