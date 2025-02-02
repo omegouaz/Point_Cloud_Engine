@@ -1,11 +1,4 @@
-<p align="center">
-  <a href="">
-    <img src="logo/logo.png" alt="Logo" width=72 height=72>
-  </a>
-
-  <h3 align="center">Point Cloud Reconstruction Engine </h3>
-</p>
-
+![alt text](https://github.com/omegouaz/Point_Cloud_Engine/blob/main/pointcloud2.png)
 
 ## Table of contents
 
